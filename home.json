@@ -1,0 +1,790 @@
+{
+  "headers": [
+    {
+      "paralaxImage": {
+        "url": "https://preview.colorlib.com/theme/podca/images/xhero_bg_1.jpg.pagespeed.ic.EJCcE-mhd6.webp"
+      },
+      "atas": {
+        "logo": {
+          "text": "Podca",
+          "url": "https://preview.colorlib.com/theme/podca/index.html"
+        },
+        "navbar": {
+          "icon": "icon-menu",
+          "url": "https://preview.colorlib.com/theme/podca/index.html",
+          "attr": {
+            "closeButton": {
+              "icon": "icon-button"
+            },
+            "menu": [
+              {
+                "text": "HOME",
+                "url": "https://preview.colorlib.com/theme/podca/index.html",
+                "icon-right": "arrow up",
+                "subMenu": [
+                  {
+                    "text": "Menu One",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Menu Two",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Menu Three",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Sub Menu",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html",
+                    "icon-right": "arrow up",
+                    "subMenu": [
+                      {
+                        "text": "Menu One",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Two",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Three",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "DropDown",
+                "url": "https://preview.colorlib.com/theme/podca/index.html",
+                "icon-right": "arrow up",
+                "subMenu": [
+                  {
+                    "text": "Menu One",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Menu Two",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Menu Three",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  }
+                ]
+              },
+              {
+                "text": "About",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "About",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "Contact",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              }
+            ]
+          }
+        }
+      },
+      "jumbotron": {
+        "title": "Episode 09: How To Create Web Page Using Bootstrap 4",
+        "smallText": "By Mike Smith | 16 September 2017 | 1:30:20",
+        "button": {
+          "text": "Read The Transcript",
+          "url": "https://preview.colorlib.com/theme/podca/single-post.html"
+        }
+      }
+    }
+  ],
+  "body": [
+    {
+      "audiobar": {
+        "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+        "playPauseButton": [
+          {
+            "play": {
+              "icon": "mejs_play",
+              "title": "Play"
+            }
+          },
+          {
+            "pause": {
+              "icon": "mejs_pause",
+              "title": "Pause"
+            }
+          }
+        ],
+        "currentTime": "00:00",
+        "timeSlider": {
+          "valueMin": "0",
+          "valueNow": "0",
+          "valueText": "00:00"
+        },
+        "endTime": "00:00",
+        "volume": [
+          {
+            "unmute": {
+              "icon": "mejs_unmute",
+              "title": "unmute",
+              "sliderVolume": {
+                "valueMin": 0,
+                "valueMax": 100,
+                "valueNow": 50,
+                "valueText": "50",
+                "attr": {
+                  "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                }
+              }
+            }
+          },
+          {
+            "mute": {
+              "icon": "mejs_mute",
+              "title": "mute",
+              "sliderVolume": {
+                "valueMin": 0,
+                "valueMax": 100,
+                "valueNow": 0,
+                "valueText": "0",
+                "attr": {
+                  "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "podcast": {
+        "title": "Recent Podcasts",
+        "content": [
+          {
+            "idPodcasts": 1,
+            "img": "images/ximg_1.jpg.pagespeed.ic.y9bYFxEVL-.webp",
+            "titlePodcast": "Episode 08: How To Create Web Page Using Bootstrap 4",
+            "url": "https://preview.colorlib.com/theme/podca/single-post.html",
+            "smallText": {
+              "podcastBy": "Mike Smith",
+              "datePosted": "16 September 2017",
+              "timePosted": " 1:30:20"
+            },
+            "descPodcast": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti repellat mollitia consequatur, optio nesciunt placeat. Iste voluptates excepturi tenetur, nesciunt.",
+            "audiobar": {
+              "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+              "playPauseButton": [
+                {
+                  "play": {
+                    "icon": "mejs_play",
+                    "title": "Play"
+                  }
+                },
+                {
+                  "pause": {
+                    "icon": "mejs_pause",
+                    "title": "Pause"
+                  }
+                }
+              ],
+              "currentTime": "00:00",
+              "timeSlider": {
+                "valueMin": "0",
+                "valueNow": "0",
+                "valueText": "00:00"
+              },
+              "endTime": "00:00",
+              "volume": [
+                {
+                  "unmute": {
+                    "icon": "mejs_unmute",
+                    "title": "unmute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 50,
+                      "valueText": "50",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                },
+                {
+                  "mute": {
+                    "icon": "mejs_mute",
+                    "title": "mute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 0,
+                      "valueText": "0",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "idPodcasts": 2,
+            "img": "images/ximg_2.jpg.pagespeed.ic.W9wQZlH_Hi.webp",
+            "titlePodcast": "Episode 07: How To Create Web Page Using Bootstrap 4",
+            "url": "https://preview.colorlib.com/theme/podca/single-post.html",
+            "smallText": {
+              "podcastBy": "Mike Smith",
+              "datePosted": "16 September 2017",
+              "timePosted": " 1:30:20"
+            },
+            "descPodcast": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti repellat mollitia consequatur, optio nesciunt placeat. Iste voluptates excepturi tenetur, nesciunt.",
+            "audiobar": {
+              "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+              "playPauseButton": [
+                {
+                  "play": {
+                    "icon": "mejs_play",
+                    "title": "Play"
+                  }
+                },
+                {
+                  "pause": {
+                    "icon": "mejs_pause",
+                    "title": "Pause"
+                  }
+                }
+              ],
+              "currentTime": "00:00",
+              "timeSlider": {
+                "valueMin": "0",
+                "valueNow": "0",
+                "valueText": "00:00"
+              },
+              "endTime": "00:00",
+              "volume": [
+                {
+                  "unmute": {
+                    "icon": "mejs_unmute",
+                    "title": "unmute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 50,
+                      "valueText": "50",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                },
+                {
+                  "mute": {
+                    "icon": "mejs_mute",
+                    "title": "mute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 0,
+                      "valueText": "0",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "idPodcasts": 3,
+            "img": "images/ximg_3.jpg.pagespeed.ic.taOySBZVZW.webp",
+            "titlePodcast": "Episode 06: How To Create Web Page Using Bootstrap 4",
+            "url": "https://preview.colorlib.com/theme/podca/single-post.html",
+            "smallText": {
+              "podcastBy": "Mike Smith",
+              "datePosted": "16 September 2017",
+              "timePosted": " 1:30:20"
+            },
+            "descPodcast": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti repellat mollitia consequatur, optio nesciunt placeat. Iste voluptates excepturi tenetur, nesciunt.",
+            "audiobar": {
+              "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+              "playPauseButton": [
+                {
+                  "play": {
+                    "icon": "mejs_play",
+                    "title": "Play"
+                  }
+                },
+                {
+                  "pause": {
+                    "icon": "mejs_pause",
+                    "title": "Pause"
+                  }
+                }
+              ],
+              "currentTime": "00:00",
+              "timeSlider": {
+                "valueMin": "0",
+                "valueNow": "0",
+                "valueText": "00:00"
+              },
+              "endTime": "00:00",
+              "volume": [
+                {
+                  "unmute": {
+                    "icon": "mejs_unmute",
+                    "title": "unmute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 50,
+                      "valueText": "50",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                },
+                {
+                  "mute": {
+                    "icon": "mejs_mute",
+                    "title": "mute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 0,
+                      "valueText": "0",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "idPodcasts": 4,
+            "img": "images/ximg_4.jpg.pagespeed.ic.zmi720ssRP.webp",
+            "titlePodcast": "Episode 05: How To Create Web Page Using Bootstrap 4",
+            "url": "https://preview.colorlib.com/theme/podca/single-post.html",
+            "smallText": {
+              "podcastBy": "Mike Smith",
+              "datePosted": "16 September 2017",
+              "timePosted": " 1:30:20"
+            },
+            "descPodcast": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti repellat mollitia consequatur, optio nesciunt placeat. Iste voluptates excepturi tenetur, nesciunt.",
+            "audiobar": {
+              "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+              "playPauseButton": [
+                {
+                  "play": {
+                    "icon": "mejs_play",
+                    "title": "Play"
+                  }
+                },
+                {
+                  "pause": {
+                    "icon": "mejs_pause",
+                    "title": "Pause"
+                  }
+                }
+              ],
+              "currentTime": "00:00",
+              "timeSlider": {
+                "valueMin": "0",
+                "valueNow": "0",
+                "valueText": "00:00"
+              },
+              "endTime": "00:00",
+              "volume": [
+                {
+                  "unmute": {
+                    "icon": "mejs_unmute",
+                    "title": "unmute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 50,
+                      "valueText": "50",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                },
+                {
+                  "mute": {
+                    "icon": "mejs_mute",
+                    "title": "mute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 0,
+                      "valueText": "0",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "idPodcasts": 5,
+            "img": "images/images/ximg_5.jpg.pagespeed.ic.RyJ8t0LED7.webp",
+            "titlePodcast": "Episode 04: How To Create Web Page Using Bootstrap 4",
+            "url": "https://preview.colorlib.com/theme/podca/single-post.html",
+            "smallText": {
+              "podcastBy": "Mike Smith",
+              "datePosted": "16 September 2017",
+              "timePosted": " 1:30:20"
+            },
+            "descPodcast": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti repellat mollitia consequatur, optio nesciunt placeat. Iste voluptates excepturi tenetur, nesciunt.",
+            "audiobar": {
+              "urlAudio": "https://preview.colorlib.com/theme/podca/audio/make.mp3",
+              "playPauseButton": [
+                {
+                  "play": {
+                    "icon": "mejs_play",
+                    "title": "Play"
+                  }
+                },
+                {
+                  "pause": {
+                    "icon": "mejs_pause",
+                    "title": "Pause"
+                  }
+                }
+              ],
+              "currentTime": "00:00",
+              "timeSlider": {
+                "valueMin": "0",
+                "valueNow": "0",
+                "valueText": "00:00"
+              },
+              "endTime": "00:00",
+              "volume": [
+                {
+                  "unmute": {
+                    "icon": "mejs_unmute",
+                    "title": "unmute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 50,
+                      "valueText": "50",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                },
+                {
+                  "mute": {
+                    "icon": "mejs_mute",
+                    "title": "mute",
+                    "sliderVolume": {
+                      "valueMin": 0,
+                      "valueMax": 100,
+                      "valueNow": 0,
+                      "valueText": "0",
+                      "attr": {
+                        "text": "Use Up/Down Arrow keys to increase or decrease volume."
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gallerys": {
+        "title": "Behind The Mic",
+        "gallery": [
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_1.jpg.pagespeed.ic.NzGotTzTEg.webp",
+            "attr": {
+              "name": "Megan Smith",
+              "profession": "Creative Director",
+              "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.",
+              "sosmed": [
+                {
+                  "icons": "icon-facebook",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-twitter",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-linkedin",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                }
+              ]
+            }
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_2.jpg.pagespeed.ic.ycc-Edwyd1.webp",
+            "attr": {
+              "name": "Brooke Cagle",
+              "profession": "Creative Director",
+              "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.",
+              "sosmed": [
+                {
+                  "icons": "icon-facebook",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-twitter",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-linkedin",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                }
+              ]
+            }
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_3.jpg.pagespeed.ic.zY-y25qZs4.webp",
+            "attr": {
+              "name": "Philip Martin",
+              "profession": "Creative Director",
+              "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.",
+              "sosmed": [
+                {
+                  "icons": "icon-facebook",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-twitter",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-linkedin",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                }
+              ]
+            }
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_4.jpg.pagespeed.ic.cOJUXL1PUR.webp",
+            "attr": {
+              "name": "Steven Ericson",
+              "profession": "Creative Director",
+              "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.",
+              "sosmed": [
+                {
+                  "icons": "icon-facebook",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-twitter",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-linkedin",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                }
+              ]
+            }
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_5.jpg.pagespeed.ic.X36VI035mo.webp",
+            "attr": {
+              "name": "Nathan Dumlao",
+              "profession": "Creative Director",
+              "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.",
+              "sosmed": [
+                {
+                  "icons": "icon-facebook",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-twitter",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                },
+                {
+                  "icons": "icon-linkedin",
+                  "url": "https://preview.colorlib.com/theme/podca/index.html#"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "guests": {
+        "title": "Featured Guests",
+        "guest": [
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_1.jpg.pagespeed.ic.NzGotTzTEg.webp",
+            "name": "Megan Smith",
+            "textGuest": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?"
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_2.jpg.pagespeed.ic.ycc-Edwyd1.webp",
+            "name": "Brooke Cagle",
+            "textGuest": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?"
+          },
+          {
+            "img": "https://preview.colorlib.com/theme/podca/images/xperson_3.jpg.pagespeed.ic.zY-y25qZs4.webp",
+            "name": "Philip Martin",
+            "textGuest": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?"
+          }
+        ]
+      }
+    },
+    {
+      "subcribe": {
+        "title": "Subscribe",
+        "paralaxImage": "https://preview.colorlib.com/theme/podca/images/xhero_bg_1.jpg.pagespeed.ic.EJCcE-mhd6.webp",
+        "descSubcribe": "Lorem ipsum dolor sit amet, consectetur adipisicing elit nihil saepe libero sit odio obcaecati veniam.",
+        "formSend": [
+          {
+            "inputEmail": {
+              "placeholder": "Enter Email",
+              "valueNow": ""
+            },
+            "button": {
+              "text": "Send",
+              "class": "btn btn-primary"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": [
+    {
+      "kiri": [
+        {
+          "about": {
+            "title": "About Podca",
+            "descAbout": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!"
+          }
+        },
+        {
+          "quickMenu": {
+            "title": "Quick Menu",
+            "listMenu": [
+              {
+                "text": "Home",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "Matches",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "News",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "Team",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "AboutUs",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "text": "Home",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              }
+            ]
+          }
+        },
+        {
+          "recentPodcast": {
+            "title": "Recent Podcasts",
+            "podcasts": [
+              {
+                "img": "https://preview.colorlib.com/theme/podca/images/ximg_1.jpg.pagespeed.ic.pqMldHVHW6.webp",
+                "titlePodcast": "Lorem ipsum dolor sit amet consectetur elit",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "img": "https://preview.colorlib.com/theme/podca/images/ximg_1.jpg.pagespeed.ic.pqMldHVHW6.webp",
+                "titlePodcast": "Lorem ipsum dolor sit amet consectetur elit",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              },
+              {
+                "img": "https://preview.colorlib.com/theme/podca/images/ximg_1.jpg.pagespeed.ic.pqMldHVHW6.webp",
+                "titlePodcast": "Lorem ipsum dolor sit amet consectetur elit",
+                "url": "https://preview.colorlib.com/theme/podca/index.html"
+              }
+            ]
+          }
+        },
+        {
+          "followUs": {
+            "title": "Follow Us",
+            "sosmed": [
+              {
+                "icons": "icon-facebook",
+                "url": "https://preview.colorlib.com/theme/podca/index.html#"
+              },
+              {
+                "icons": "icon-twitter",
+                "url": "https://preview.colorlib.com/theme/podca/index.html#"
+              },
+              {
+                "icons": "icon-instagram",
+                "url": "https://preview.colorlib.com/theme/podca/index.html#"
+              },
+              {
+                "icons": "icon-linkedin",
+                "url": "https://preview.colorlib.com/theme/podca/index.html#"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "kanan": [
+        {
+          "watchVideo": {
+            "img": "https://preview.colorlib.com/theme/podca/images/ximg_1.jpg.pagespeed.ic.pqMldHVHW6.webp",
+            "urlVideo": "https://preview.colorlib.com/theme/podca/images/ximg_1.jpg.pagespeed.ic.pqMldHVHW6.webp"
+          }
+        },
+        {
+          "subcribeNew": {
+            "title": "Subscribe Newsletter",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit minima minus odio.",
+            "formSend": [
+              {
+                "inputEmail": {
+                  "placeholder": "Enter Email",
+                  "valueNow": ""
+                },
+                "button": {
+                  "text": "Send",
+                  "class": "btn btn-primary"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "copyright": {
+        "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib",
+        "url": "https://colorlib.com/"
+      }
+    }
+  ]
+}
