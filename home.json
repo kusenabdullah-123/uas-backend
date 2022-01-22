@@ -92,7 +92,11 @@
       },
       "jumbotron": {
         "title": "Episode 09: How To Create Web Page Using Bootstrap 4",
-        "smallText": "By Mike Smith | 16 September 2017 | 1:30:20",
+        "smallText": {
+          "podcastBy": "Mike Smith",
+          "datePosted": "16 September 2017",
+          "timePosted": " 1:30:20"
+        },
         "button": {
           "text": "Read The Transcript",
           "url": "https://preview.colorlib.com/theme/podca/single-post.html"
