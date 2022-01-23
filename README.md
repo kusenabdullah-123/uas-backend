@@ -1,2 +1,2 @@
 # uas-backend
-uas bacnkend developer
+uas backend developer
