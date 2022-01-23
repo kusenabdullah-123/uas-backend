@@ -1,8 +1,8 @@
 from flask_restful import Resource
-from model.home import getHome
+from tools.utilitys import openFile
 
 
 class Home(Resource):
     def get(self):
-        home = getHome()
+        home = openFile("home")
         return {"home": home}

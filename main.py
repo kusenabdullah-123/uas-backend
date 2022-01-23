@@ -1,6 +1,6 @@
 
 from flask import Flask
-from flask_restful import Api, Resource
+from flask_restful import Api
 from flask_cors import CORS
 from resources.home import Home
 app = Flask(__name__)
