@@ -1,6 +1,8 @@
 from flask_restful import Resource
+from model.home import getHome
 
 
 class Home(Resource):
     def get(self):
-        return {"data": "oke"}
+        home = getHome()
+        return {"home": home}
